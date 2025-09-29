@@ -3,6 +3,10 @@
 ## About Me
 QA professional with experience in manual testing, API testing, and QTP/UFT automation. Passionate about ensuring high-quality software and supporting meaningful projects.
 
+## 📄 Sample QA Documents
+- [Sample Test Cases](TestCases.md)
+- [Sample Bug Reports](BugReports.md)
+
 ## Projects
 1. Campus-Based Product – Manual & Automation Testing
 2. Freelance School App – API Testing, Manual Test Cases
