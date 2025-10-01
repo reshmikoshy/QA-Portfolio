@@ -13,6 +13,11 @@ QA professional with experience in manual testing, API testing, and QTP/UFT auto
 The script opens a browser, enters username and password, clicks the login button, and verifies success.
 It serves as a sample automation artifact for my QA portfolio.
 
+- **API Testing Sample**: Small API testing example for login and user details endpoints.
+Demonstrates QA validation logic for requests and responses.
+
+[View API Testing Sample](API_Testing_Sample.md)
+
 ## Projects
 1. Campus-Based Product – Manual & Automation Testing
 2. Freelance School App – API Testing, Manual Test Cases
