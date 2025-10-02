@@ -18,6 +18,17 @@ Demonstrates QA validation logic for requests and responses.
 
 [View API Testing Sample](API_Testing_Sample.md)
 
+## SQL Validation Examples
+
+[sql_validation_examples.sql](./sql_validation_examples.sql)
+
+This file contains sample database schema, sample data, and SQL queries used for QA testing:
+
+- **Login validation** – Check if a user exists or not
+- **Joins** – Verify relationships between student and course information
+- **Count queries** – Validate records inserted after signup
+- **Sanity checks** – Detect duplicates or orphaned records
+
 ## Projects
 1. Campus-Based Product – Manual & Automation Testing
 2. Freelance School App – API Testing, Manual Test Cases
