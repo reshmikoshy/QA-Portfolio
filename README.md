@@ -29,6 +29,9 @@ This file contains sample database schema, sample data, and SQL queries used for
 - **Count queries** – Validate records inserted after signup
 - **Sanity checks** – Detect duplicates or orphaned records
 
+- ## Sample Test Plan
+[test_plan_sample.md](./test_plan_sample.md) – Short QA test plan demonstrating scope, objectives, test types, responsibilities, risks, tools, and deliverables.
+
 ## Projects
 1. Campus-Based Product – Manual & Automation Testing
 2. Freelance School App – API Testing, Manual Test Cases
