@@ -35,6 +35,14 @@ This file contains sample database schema, sample data, and SQL queries used for
 ## Projects
 1. Campus-Based Product – Manual & Automation Testing
 2. Freelance School App – API Testing, Manual Test Cases
+3. Magic Menu website Testing
+- Freelance exploratory testing project focused on website registration, login, and dashboard functionality.
+- Reported key defects:
+- Missing email verification code during registration.
+- “Forgot Password” link not functioning.
+- Dashboard not displaying dietary preferences correctly.
+- [View Detailed Project](./Website_Testing_Projects/MagicMenu_Website_Testing/README.md)
+- [View Bug Report](./Website_Testing_Projects/MagicMenu_Website_Testing/Bug_Report_MagicMenu.md)
 
 ## Skills
 - Manual Testing: Functional, Regression, UI, System Testing
